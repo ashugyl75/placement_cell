@@ -13,7 +13,7 @@ This project endeavors to streamline the recruitment process, optimizing time an
 
 Why Django, you ask? Well, imagine a toolbox that's already filled to the brim with everything you might need - that's Django for you! Here's why it's a winner:
 
-Abstractions Galore: Django spoils you with ready-made stuff for authentication, routing URLs, and handling database models. It's like having your code served on a silver platter.
+>Abstractions Galore: Django spoils you with ready-made stuff for authentication, routing URLs, and handling database models. It's like having your code served on a silver platter.
 ORM Magic: This wizardry turns SQL queries into Python code. Sounds fancy, right? It means less time wrestling with databases and more time sipping coffee.
 Admin Interface Bliss: Ever dreamt of effortlessly managing your app's data? Django's built-in admin interface makes it a reality. Think of it as your app's personal butler.
 Scaling Zen and Security Armor: Django's got your back when it comes to scalability and security. No need to worry about your app becoming a hot mess or getting hacked.
